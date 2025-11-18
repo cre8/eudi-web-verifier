@@ -1,5 +1,5 @@
 export const environment = {
-    apiUrl: 'http://localhost:8080',
+    apiUrl: 'https://verifier-api.funke-wallet.de',
     appName: 'Verifier',
 	openid4vpDraft: '1.0',
 };
